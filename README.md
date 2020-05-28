@@ -1,4 +1,4 @@
-# Segmentation of optical coherence tomography images with diabetic macular edema using UNets. 
+# Segmentation of optical coherence tomography images with diabetic macular edema - The Gluon Implementation 
 
 Built from scratch using Apache MxNet and Gluon
 
