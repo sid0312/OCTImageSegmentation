@@ -23,6 +23,7 @@ Built from scratch using Apache MxNet and Gluon
 
 Images for segmentation of optical coherence tomography images with diabetic macular edema. 
 Obtained the dataset from https://www.kaggle.com/paultimothymooney/chiu-2015
+
 I have included the unzipped version of the dataset in this repository
 
 # Installing the requirements
