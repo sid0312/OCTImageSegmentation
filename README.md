@@ -2,18 +2,18 @@
 
 Built from scratch using Apache MxNet and Gluon
 
-![](images/network_structure.JPG')
+![](images/network_structure.JPG)
                             The UNet Structure 
                             
-![](images/modelsummarypart1.JPG')
-![](images/modelsummarypart2.JPG')
+![](images/modelsummarypart1.JPG)
+![](images/modelsummarypart2.JPG)
               The model parameters when an ndarray of (5,1,284,284) is passed through it
               
               
-![](images/trainoct.JPG')
+![](images/trainoct.JPG)
                         Plotting the training examples and the results
                         
- ![](images/valoct.JPG')
+ ![](images/valoct.JPG)
                         Performance on our validation examples
 
 # Dataset
