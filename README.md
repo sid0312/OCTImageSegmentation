@@ -47,6 +47,5 @@ To get the intuition of the training process,
 go to https://github.com/sid0312/OCTImageSegmentation/blob/master/unets.ipynb
 
 ## Made with :heart: by Siddhant Baldota
-**[](https://github.com/sid0312)**
-
-
+![](https://github.com/sid0312)
+[<img src="http://i.imgur.com/0o48UoR.png" width="35">](https://github.com/sid0312) 
