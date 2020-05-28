@@ -48,5 +48,5 @@ go to https://github.com/sid0312/OCTImageSegmentation/blob/master/unets.ipynb
 
 ## Made with :heart: by Siddhant Baldota
 ![](https://github.com/sid0312)
-[<img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="50">](https://github.com/sid0312/) 
-[<img src="https://i.imgur.com/qvrM5Umb.jpg" width="50">](https://www.linkedin.com/in/siddhant-baldota-051059180/)
+[<img src="https://image.flaticon.com/icons/svg/919/919847.svg" width="50">](https://github.com/sid0312/) 
+[<img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="50">](https://www.linkedin.com/in/siddhant-baldota-051059180/)
