@@ -1,1 +1,46 @@
-# Segmentation of CT Scan of Brain Tumours using UNets. Built from scratch using Apache MxNet and Gluon
+# Segmentation of optical coherence tomography images with diabetic macular edema using UNets. 
+
+Built from scratch using Apache MxNet and Gluon
+
+![]('https://github.com/sid0312/OCTImageSegmentation/blob/master/images/network_structure.JPG')
+                            The UNet Structure 
+                            
+![]('https://github.com/sid0312/OCTImageSegmentation/blob/master/images/modelsummarypart1.JPG')
+![]('https://github.com/sid0312/OCTImageSegmentation/blob/master/images/modelsummarypart2.JPG')
+              The model parameters when an ndarray of (5,1,284,284) is passed through it
+              
+              
+![]('https://github.com/sid0312/OCTImageSegmentation/blob/master/images/trainoct.JPG')
+                        Plotting the training examples and the results
+                        
+ ![]('https://github.com/sid0312/OCTImageSegmentation/blob/master/images/valoct.JPG')
+                        Performance on our validation examples
+
+# Dataset
+
+Images for segmentation of optical coherence tomography images with diabetic macular edema. 
+Obtained the dataset from https://www.kaggle.com/paultimothymooney/chiu-2015
+I have included the unzipped version of the dataset in this repository
+
+# Installing the requirements
+```bash
+pip3 install -r requirements.txt
+```
+# Clone the repository 
+```bash
+git clone https://github.com/sid0312/OCTImageSegmentation
+cd OCTImageSegmentation
+```
+# To train the model, thereby getting the train and validation accuracies as well as losses
+```bash
+python train.py
+```
+# Results
+```bash
+python results.py
+```
+
+To get the intuition of the training process, go to [unets.ipynb] (https://github.com/sid0312/OCTImageSegmentation/blob/master/unets.ipynb)
+
+## Made with :heart: by Siddhant Baldota, project owner
+
