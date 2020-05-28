@@ -47,7 +47,7 @@ python results.py
 ```
 
 To get the intuition of the training process,
-go to [unets.ipynb] (https://github.com/sid0312/OCTImageSegmentation/blob/master/unets.ipynb)
+go to [unets.ipynb] (unets.ipynb)
 
 ## Made with :heart: by Siddhant Baldota, project owner
 
