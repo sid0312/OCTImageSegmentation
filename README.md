@@ -2,18 +2,18 @@
 
 Built from scratch using Apache MxNet and Gluon
 
-![]('https://github.com/sid0312/OCTImageSegmentation/blob/master/images/network_structure.JPG')
+![](images/network_structure.JPG')
                             The UNet Structure 
                             
-![]('https://github.com/sid0312/OCTImageSegmentation/blob/master/images/modelsummarypart1.JPG')
-![]('https://github.com/sid0312/OCTImageSegmentation/blob/master/images/modelsummarypart2.JPG')
+![](images/modelsummarypart1.JPG')
+![](images/modelsummarypart2.JPG')
               The model parameters when an ndarray of (5,1,284,284) is passed through it
               
               
-![]('https://github.com/sid0312/OCTImageSegmentation/blob/master/images/trainoct.JPG')
+![](images/trainoct.JPG')
                         Plotting the training examples and the results
                         
- ![]('https://github.com/sid0312/OCTImageSegmentation/blob/master/images/valoct.JPG')
+ ![](images/valoct.JPG')
                         Performance on our validation examples
 
 # Dataset
@@ -40,7 +40,8 @@ python train.py
 python results.py
 ```
 
-To get the intuition of the training process, go to [unets.ipynb] (https://github.com/sid0312/OCTImageSegmentation/blob/master/unets.ipynb)
+To get the intuition of the training process,
+go to [unets.ipynb] (https://github.com/sid0312/OCTImageSegmentation/blob/master/unets.ipynb)
 
 ## Made with :heart: by Siddhant Baldota, project owner
 
