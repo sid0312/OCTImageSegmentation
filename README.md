@@ -37,7 +37,7 @@ pip3 install -r requirements.txt
 git clone https://github.com/sid0312/OCTImageSegmentation
 cd OCTImageSegmentation
 ```
-# To train the model, thereby getting the train and validation accuracies as well as losses
+# Model training
 ```bash
 python train.py
 ```
@@ -47,7 +47,7 @@ python results.py
 ```
 
 To get the intuition of the training process,
-go to [unets.ipynb] (https://github.com/sid0312/OCTImageSegmentation/blob/master/unets.ipynb)
+go to https://github.com/sid0312/OCTImageSegmentation/blob/master/unets.ipynb
 
 ## Made with :heart: by Siddhant Baldota, project owner
 
