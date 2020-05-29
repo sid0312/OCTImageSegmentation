@@ -15,7 +15,7 @@ Built from scratch using Apache MxNet and Gluon
                             
  
 ## Model summary. Input -> ndarray of size (5,1,284,284)                            
-![](images/modelsummarypart1.JPG)
+![](images/networksummary1.jpg)
 
              
 
