@@ -1,0 +1,6 @@
+mxnet-cu101
+numpy
+scipy
+scikit-image
+tqdm
+matplotlib

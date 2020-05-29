@@ -1,31 +1,29 @@
-# Segmentation of optical coherence tomography images with diabetic macular edema using UNets. 
+# Segmentation of optical coherence tomography images with diabetic macular edema - The Gluon Implementation 
 
 Built from scratch using Apache MxNet and Gluon
 
+## Plotting the training examples and the results
 ![](images/trainoct.JPG)
                       
-Plotting the training examples and the results
-                        
+
+## Performance on our validation examples                      
  ![](images/valoct.JPG)
                        
-Performance on our validation examples
 
+## The UNet Structure
 ![](images/network_structure.JPG)
                             
-The UNet Structure 
-                            
+ 
+## Model summary. Input -> ndarray of size (5,1,284,284)                            
 ![](images/modelsummarypart1.JPG)
 ![](images/modelsummarypart2.JPG)
              
-The model parameters when an ndarray of (5,1,284,284) is passed through it
-              
-              
-
 
 # Dataset
 
 Images for segmentation of optical coherence tomography images with diabetic macular edema. 
 Obtained the dataset from https://www.kaggle.com/paultimothymooney/chiu-2015
+
 I have included the unzipped version of the dataset in this repository
 
 # Installing the requirements
@@ -37,7 +35,7 @@ pip3 install -r requirements.txt
 git clone https://github.com/sid0312/OCTImageSegmentation
 cd OCTImageSegmentation
 ```
-# To train the model, thereby getting the train and validation accuracies as well as losses
+# Model training
 ```bash
 python train.py
 ```
@@ -47,7 +45,9 @@ python results.py
 ```
 
 To get the intuition of the training process,
-go to [unets.ipynb] (https://github.com/sid0312/OCTImageSegmentation/blob/master/unets.ipynb)
+go to https://github.com/sid0312/OCTImageSegmentation/blob/master/unets.ipynb
 
-## Made with :heart: by Siddhant Baldota, project owner
-
+## Made with :heart: by Siddhant Baldota
+![](https://github.com/sid0312)
+[<img src="https://image.flaticon.com/icons/svg/919/919847.svg" width="50">](https://github.com/sid0312/) 
+[<img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="50">](https://www.linkedin.com/in/siddhant-baldota-051059180/)
